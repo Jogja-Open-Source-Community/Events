@@ -5,6 +5,8 @@
 📍 **Lokasi:** Zipy Joglo Nologaten 
 🎯 **Tema:** "Kumpul kode perdana"
 
+![Foto](https://raw.githubusercontent.com/Jogja-Open-Source-Community/Events/refs/heads/main/kumpul-kode/kumpul-kode-20250419.jpeg)
+
 ## 📌 Deskripsi Singkat
 Acara kumpul perdana komunitas Jogja Open Source Community (JOSC).  
 Kita akan ngobrolin bareng tentang:
